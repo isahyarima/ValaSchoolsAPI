@@ -1,9 +1,0 @@
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Response.Status\bin\Debug\netcoreapp2.0\Core.Response.Status.deps.json
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Response.Status\bin\Debug\netcoreapp2.0\Core.Response.Status.dll
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Response.Status\bin\Debug\netcoreapp2.0\Core.Response.Status.pdb
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Response.Status\obj\Debug\netcoreapp2.0\Core.Response.Status.csprojAssemblyReference.cache
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Response.Status\obj\Debug\netcoreapp2.0\Core.Response.Status.csproj.CoreCompileInputs.cache
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Response.Status\obj\Debug\netcoreapp2.0\Core.Response.Status.AssemblyInfoInputs.cache
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Response.Status\obj\Debug\netcoreapp2.0\Core.Response.Status.AssemblyInfo.cs
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Response.Status\obj\Debug\netcoreapp2.0\Core.Response.Status.dll
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Response.Status\obj\Debug\netcoreapp2.0\Core.Response.Status.pdb

@@ -1,8 +1,0 @@
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\User.Identity.Provider\bin\Debug\netcoreapp2.0\User.Identity.Provider.deps.json
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\User.Identity.Provider\bin\Debug\netcoreapp2.0\User.Identity.Provider.dll
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\User.Identity.Provider\bin\Debug\netcoreapp2.0\User.Identity.Provider.pdb
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\User.Identity.Provider\obj\Debug\netcoreapp2.0\User.Identity.Provider.csproj.CoreCompileInputs.cache
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\User.Identity.Provider\obj\Debug\netcoreapp2.0\User.Identity.Provider.AssemblyInfoInputs.cache
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\User.Identity.Provider\obj\Debug\netcoreapp2.0\User.Identity.Provider.AssemblyInfo.cs
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\User.Identity.Provider\obj\Debug\netcoreapp2.0\User.Identity.Provider.dll
-C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\User.Identity.Provider\obj\Debug\netcoreapp2.0\User.Identity.Provider.pdb
