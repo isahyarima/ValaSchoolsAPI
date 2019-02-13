@@ -1,0 +1,15 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\bin\Debug\netcoreapp2.0\School.Business.Students.deps.json
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\bin\Debug\netcoreapp2.0\School.Business.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\bin\Debug\netcoreapp2.0\School.Business.Students.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\bin\Debug\netcoreapp2.0\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\bin\Debug\netcoreapp2.0\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\bin\Debug\netcoreapp2.0\Core.Common.School.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\bin\Debug\netcoreapp2.0\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\bin\Debug\netcoreapp2.0\Core.Common.School.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\bin\Debug\netcoreapp2.0\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\obj\Debug\netcoreapp2.0\School.Business.Students.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\obj\Debug\netcoreapp2.0\School.Business.Students.AssemblyInfoInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\obj\Debug\netcoreapp2.0\School.Business.Students.AssemblyInfo.cs
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\obj\Debug\netcoreapp2.0\School.Business.Students.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\obj\Debug\netcoreapp2.0\School.Business.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.Students\obj\Debug\netcoreapp2.0\School.Business.Students.pdb

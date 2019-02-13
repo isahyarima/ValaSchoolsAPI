@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Response\bin\Debug\Core.Response.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Response\bin\Debug\Core.Response.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Response\obj\Debug\Core.Response.Status.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Response\obj\Debug\Core.Response.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Response\obj\Debug\Core.Response.pdb

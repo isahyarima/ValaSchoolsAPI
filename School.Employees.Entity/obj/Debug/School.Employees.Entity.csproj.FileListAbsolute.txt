@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Projects\School\School.Employees.Entity\bin\Debug\School.Employees.Entity.dll
+C:\Users\uuser\Documents\Projects\School\School.Employees.Entity\bin\Debug\School.Employees.Entity.pdb
+C:\Users\uuser\Documents\Projects\School\School.Employees.Entity\obj\Debug\School.Employees.Entity.dll
+C:\Users\uuser\Documents\Projects\School\School.Employees.Entity\obj\Debug\School.Employees.Entity.pdb
+C:\Users\uuser\Documents\Projects\School\School.Employees.Entity\obj\Debug\School.Employees.Entity.csprojResolveAssemblyReference.cache

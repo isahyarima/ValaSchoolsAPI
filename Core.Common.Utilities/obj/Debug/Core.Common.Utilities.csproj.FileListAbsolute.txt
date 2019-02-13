@@ -1,0 +1,15 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common.Utilities\bin\Debug\Core.Common.Utilities.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common.Utilities\bin\Debug\Core.Common.Utilities.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common.Utilities\obj\Debug\Core.Common.Utilities.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common.Utilities\obj\Debug\Core.Common.Utilities.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Utilities\bin\Debug\Core.Common.Utilities.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Utilities\bin\Debug\Core.Common.Utilities.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Utilities\obj\Debug\Core.Common.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Utilities\obj\Debug\Core.Common.Utilities.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Utilities\obj\Debug\Core.Common.Utilities.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Utilities\bin\Debug\Core.Common.Utilities.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Utilities\bin\Debug\Core.Common.Utilities.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Utilities\obj\Debug\Core.Common.Utilities.csprojAssemblyReference.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Utilities\obj\Debug\Core.Common.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Utilities\obj\Debug\Core.Common.Utilities.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Utilities\obj\Debug\Core.Common.Utilities.pdb

@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Scores\bin\Debug\School.Client.Business.Scores.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Scores\bin\Debug\School.Client.Business.Scores.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Scores\obj\Debug\School.Client.Business.Scores.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Scores\obj\Debug\School.Client.Business.Scores.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Scores\obj\Debug\School.Client.Business.Scores.pdb

@@ -1,0 +1,9 @@
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.SchoolCategory\bin\Debug\School.Business.SchoolCategory.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.SchoolCategory\bin\Debug\School.Business.SchoolCategory.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.SchoolCategory\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.SchoolCategory\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.SchoolCategory\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.SchoolCategory\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.SchoolCategory\obj\Debug\School.Business.SchoolCategories.csprojResolveAssemblyReference.cache
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.SchoolCategory\obj\Debug\School.Business.SchoolCategory.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.SchoolCategory\obj\Debug\School.Business.SchoolCategory.pdb

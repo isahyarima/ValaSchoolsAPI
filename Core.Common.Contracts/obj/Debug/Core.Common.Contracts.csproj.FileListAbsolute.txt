@@ -1,0 +1,25 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common.Contracts\bin\Debug\Core.Common.Utilities.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common.Contracts\bin\Debug\Core.Common.Utilities.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\bin\Debug\Core.Common.Utilities.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\bin\Debug\Core.Common.Utilities.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\bin\Debug\Core.Common.Utilities.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\bin\Debug\Core.Common.Utilities.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojAssemblyReference.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csproj.CopyComplete
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb

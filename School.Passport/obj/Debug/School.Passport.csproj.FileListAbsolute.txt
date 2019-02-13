@@ -1,0 +1,10 @@
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Passport\bin\Debug\School.Passport.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Passport\bin\Debug\School.Passport.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Passport\obj\Debug\School.Passport.csprojResolveAssemblyReference.cache
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Passport\obj\Debug\School.Passport.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Passport\obj\Debug\School.Passport.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Passport\bin\Debug\School.Common.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Passport\bin\Debug\EntityFramework.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Passport\bin\Debug\School.Common.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Passport\bin\Debug\School.Common.dll.config
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Passport\bin\Debug\EntityFramework.xml

@@ -1,0 +1,17 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\School.Business.Subjects.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\School.Business.Subjects.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\bin\Debug\FluentValidation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\obj\Debug\School.Business.Subjects.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\obj\Debug\School.Business.Subjects.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\obj\Debug\School.Business.Subjects.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Subjects\obj\Debug\School.Business.Subjects.pdb

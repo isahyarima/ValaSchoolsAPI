@@ -1,0 +1,9 @@
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Common\bin\Debug\School.Common.dll.config
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Common\bin\Debug\School.Common.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Common\bin\Debug\School.Common.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Common\bin\Debug\EntityFramework.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Common\bin\Debug\EntityFramework.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Common\obj\Debug\School.Common.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Common\obj\Debug\School.Common.pdb

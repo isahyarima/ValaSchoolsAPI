@@ -1,0 +1,9 @@
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.Grading\bin\Debug\School.Business.Grading.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.Grading\bin\Debug\School.Business.Grading.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.Grading\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.Grading\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.Grading\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.Grading\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.Grading\obj\Debug\School.Business.GradeSetting.csprojResolveAssemblyReference.cache
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.Grading\obj\Debug\School.Business.Grading.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Business.Grading\obj\Debug\School.Business.Grading.pdb

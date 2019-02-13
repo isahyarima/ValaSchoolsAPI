@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "School.Client.Business.ClassSubjects/1.0.0": {
+        "dependencies": {
+          "Core.General": "1.0.0"
+        },
+        "runtime": {
+          "School.Client.Business.ClassSubjects.dll": {}
+        }
+      },
+      "Core.General/1.0.0": {
+        "runtime": {
+          "Core.General.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "School.Client.Business.ClassSubjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core.General/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,126 @@
+C:\Users\uuser\Desktop\School\School.Data\bin\Debug\School.Data.dll
+C:\Users\uuser\Desktop\School\School.Data\bin\Debug\School.Data.pdb
+C:\Users\uuser\Desktop\School\School.Data\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Desktop\School\School.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uuser\Desktop\School\School.Data\obj\Debug\School.Data.csprojResolveAssemblyReference.cache
+C:\Users\uuser\Desktop\School\School.Data\obj\Debug\School.Data.dll
+C:\Users\uuser\Desktop\School\School.Data\obj\Debug\School.Data.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\obj\Debug\School.Data.csprojResolveAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\obj\Debug\School.Data.Migrations.Initial.resources
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\obj\Debug\School.Data.Migrations.NullableDateTime.resources
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\obj\Debug\School.Data.csproj.GenerateResource.Cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Data.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Data.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Data.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\Core.Common.Utilities.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Data.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Employees.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Passport.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\Core.Common.Utilities.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Data.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Employees.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Employees.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Passport.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Students.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\School.Students.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\bin\Debug\FluentValidation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\obj\Debug\School.Data.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Data\obj\Debug\School.Data.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\obj\Debug\School.Data.csprojAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\obj\Debug\School.Data.Migrations.Initail_Migration.resources
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\obj\Debug\School.Data.Migrations.Classes_Subject.resources
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\obj\Debug\School.Data.Migrations.ClassID.resources
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\obj\Debug\School.Data.csproj.GenerateResource.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\obj\Debug\School.Data.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Data.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Data.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Data.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\Core.Common.Utilities.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Attendance.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.ClassEnrolment.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Classes.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.ClassSubjects.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Origin.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Parents.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.ResultPosting.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.School.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Session.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Subjects.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.TimeTable.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Academic.Setting.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.ClassEnrolments.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.ClassSubject.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.ClassTimeTable.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Employees.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Guardian.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Location.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Passport.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.SchoolClasses.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.SchoolInfo.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Scores.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.StudentsAttendance.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.SubjectRegistration.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Data.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Employees.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Passport.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\Core.Common.Utilities.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Attendance.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.ClassEnrolment.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Classes.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.ClassSubjects.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Origin.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Parents.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.ResultPosting.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.School.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Session.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.Subjects.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Business.TimeTable.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Academic.Setting.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.ClassEnrolments.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.ClassSubject.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.ClassTimeTable.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Employees.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Guardian.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Location.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Passport.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.SchoolClasses.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.SchoolInfo.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Scores.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.StudentsAttendance.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.Students.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Client.Business.SubjectRegistration.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Data.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Employees.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Employees.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Passport.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Students.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\School.Students.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\bin\Debug\FluentValidation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\obj\Debug\School.Data.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\obj\Debug\School.Data.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Data\obj\Debug\School.Data.pdb

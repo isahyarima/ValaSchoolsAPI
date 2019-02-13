@@ -1,0 +1,122 @@
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Boostrapper.dll.config
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Boostrapper.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Boostrapper.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.WebApi.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Data.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Net.Http.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Web.Http.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Web.Mvc.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\WebActivatorEx.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\EntityFramework.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Students.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Employees.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Passport.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Data.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Data.dll.config
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.WebApi.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Net.Http.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Web.Http.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\System.Web.Mvc.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\EntityFramework.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Students.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Students.dll.config
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Employees.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Employees.dll.config
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Passport.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\obj\Debug\School.Bootstrapper.csprojResolveAssemblyReference.cache
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\obj\Debug\School.Boostrapper.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\obj\Debug\School.Boostrapper.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\Unity.Mvc3.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Data.Contracts.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Boostrapper\bin\Debug\School.Data.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\obj\Debug\School.Bootstrapper.csprojResolveAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Boostrapper.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Boostrapper.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Boostrapper.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.WebApi.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Data.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Data.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Net.Http.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.Http.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.Mvc.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Unity.Mvc3.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\WebActivatorEx.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Employees.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Passport.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.Razor.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.WebPages.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Data.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Data.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Data.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Microsoft.Practices.Unity.WebApi.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Net.Http.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.Http.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.Mvc.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Employees.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Employees.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Passport.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Students.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\School.Students.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.Razor.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.WebPages.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\FluentValidation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\obj\Debug\School.Boostrapper.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Boostrapper\obj\Debug\School.Boostrapper.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Boostrapper\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Boostrapper\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Boostrapper\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Boostrapper\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Boostrapper\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Boostrapper\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Boostrapper\bin\Debug\FluentValidation.xml

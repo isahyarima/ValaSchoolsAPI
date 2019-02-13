@@ -1,0 +1,6 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\User.Identity.Provider\bin\Debug\User.Identity.Provider.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\User.Identity.Provider\bin\Debug\User.Identity.Provider.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\User.Identity.Provider\obj\Debug\User.Identity.Provider.csprojAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\User.Identity.Provider\obj\Debug\User.Identity.Provider.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\User.Identity.Provider\obj\Debug\User.Identity.Provider.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\User.Identity.Provider\obj\Debug\User.Identity.Provider.pdb

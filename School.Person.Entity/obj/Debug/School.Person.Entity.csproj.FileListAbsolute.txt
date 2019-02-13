@@ -1,0 +1,4 @@
+C:\Users\uuser\Documents\Projects\School\School.Person.Entity\bin\Debug\School.Person.Entity.dll
+C:\Users\uuser\Documents\Projects\School\School.Person.Entity\bin\Debug\School.Person.Entity.pdb
+C:\Users\uuser\Documents\Projects\School\School.Person.Entity\obj\Debug\School.Person.Entity.dll
+C:\Users\uuser\Documents\Projects\School\School.Person.Entity\obj\Debug\School.Person.Entity.pdb

@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DAFAA25F-4B80-4AC9-AE90-1588EFFAD8A3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>School.Data.Contracts</RootNamespace>
+    <AssemblyName>School.Data.Contracts</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcademicSettingContracts\IGradeSettingRepository.cs" />
+    <Compile Include="AcademicSettingContracts\IAssessmentSettingRepository.cs" />
+    <Compile Include="AttendanceContracts\IAttendanceDescriptionRepository.cs" />
+    <Compile Include="AttendanceContracts\IAttendanceReportsitory.cs" />
+    <Compile Include="ClassEnrolmentContracts\IClassEnrolmentRepository.cs" />
+    <Compile Include="ClassesContracts\IClassesRepository.cs" />
+    <Compile Include="ClassesContracts\ISectionReportsitory.cs" />
+    <Compile Include="ClassSubjectsContracts\IClassSubjectsRepository.cs" />
+    <Compile Include="EmployeeContracts\IEmployeeAcademicRecordRepository.cs" />
+    <Compile Include="EmployeeContracts\IEmployeeContactRepository.cs" />
+    <Compile Include="EmployeeContracts\IEmployeeExperiencesRepository.cs" />
+    <Compile Include="EmployeeContracts\IEmployeeOlevelRepository.cs" />
+    <Compile Include="EmployeeContracts\IEmployeeProfessionalExamRepository.cs" />
+    <Compile Include="EmployeeContracts\IEmployeeRepository.cs" />
+    <Compile Include="GradeSettingContracts\IGradeSettingRepository.cs" />
+    <Compile Include="OriginContracts\ICountryRepository.cs" />
+    <Compile Include="OriginContracts\ILGARepository.cs" />
+    <Compile Include="OriginContracts\IStateOfOriginRepository.cs" />
+    <Compile Include="ParentsContracts\IFatherRepository.cs" />
+    <Compile Include="ParentsContracts\IMotherRepository.cs" />
+    <Compile Include="PassportContracts\IRegistrationPassportRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScoresContracts\ScoresRepository.cs" />
+    <Compile Include="SectionContracts\ISectionRepository.cs" />
+    <Compile Include="AcademicSettingContracts\IAcademicSessionRepository.cs" />
+    <Compile Include="StudentContracts\IStudentContactRepository.cs" />
+    <Compile Include="StudentContracts\IStudentGuardianRepository.cs" />
+    <Compile Include="StudentContracts\IStudentHealthRepository.cs" />
+    <Compile Include="StudentContracts\IStudentRepository.cs" />
+    <Compile Include="SubjectsContracts\ISubjectsRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Common.Contracts\Core.Common.Contracts.csproj">
+      <Project>{c0024d9d-9370-4c2d-956e-9d921d23d1f1}</Project>
+      <Name>Core.Common.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Core.Common.SchoolCode.Contracts\Core.Common.School.Contracts.csproj">
+      <Project>{dcc3601c-2bd4-4661-9dd7-e4e6ffb378f0}</Project>
+      <Name>Core.Common.School.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Core.Common\Core.Common.csproj">
+      <Project>{dae19564-667b-4ad3-a6b0-56fb1475b96d}</Project>
+      <Name>Core.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Business.Attendance\School.Business.Attendance.csproj">
+      <Project>{ab13f2b8-990e-42a3-a689-fd111b371a69}</Project>
+      <Name>School.Business.Attendance</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Business.ClassEnrolment\School.Business.ClassEnrolment.csproj">
+      <Project>{29629542-287a-4575-8ff6-5b231d80295c}</Project>
+      <Name>School.Business.ClassEnrolment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Business.Classes\School.Business.Classes.csproj">
+      <Project>{efcadd19-e36a-48ae-94e9-0b2ddeae83af}</Project>
+      <Name>School.Business.Classes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Business.ClassSubjects\School.Business.ClassSubjects.csproj">
+      <Project>{e85f81d0-e3b5-4f57-98c1-9b34e5fa43c1}</Project>
+      <Name>School.Business.ClassSubjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Business.Origin\School.Business.Origin.csproj">
+      <Project>{024513a9-bd0c-486f-84cd-f8b675929098}</Project>
+      <Name>School.Business.Origin</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Business.Parents\School.Business.Parents.csproj">
+      <Project>{bda0ce42-ce5e-42df-a04a-0caef8818370}</Project>
+      <Name>School.Business.Parents</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Business.ResultPosting\School.Business.Scores.csproj">
+      <Project>{34dbd6f8-eb93-4892-8c20-a1ed37b43847}</Project>
+      <Name>School.Business.Scores</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Business.School\School.Business.School.csproj">
+      <Project>{2257eb3e-e722-4b46-8e1a-5d4643a6104b}</Project>
+      <Name>School.Business.School</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Business.Session\School.Business.AcademicSettings.csproj">
+      <Project>{6d0f65eb-e630-46b2-8a58-76de19e90db8}</Project>
+      <Name>School.Business.AcademicSettings</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Business.Subjects\School.Business.Subjects.csproj">
+      <Project>{9250f0e1-d065-4156-b4c6-7f2280741363}</Project>
+      <Name>School.Business.Subjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Business.TimeTable\School.Business.TimeTable.csproj">
+      <Project>{ea77afe9-c9da-4f73-8917-f0e5743e0d84}</Project>
+      <Name>School.Business.TimeTable</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.Academic.Setting\School.Client.Business.Academic.Setting.csproj">
+      <Project>{656e2aeb-70ca-4a7b-a1bd-c4510ae6c529}</Project>
+      <Name>School.Client.Business.Academic.Setting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.ClassEnrolments\School.Client.Business.ClassEnrolments.csproj">
+      <Project>{f3baa749-3e7f-49ca-bc93-210a352a0c54}</Project>
+      <Name>School.Client.Business.ClassEnrolments</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.ClassSubject\School.Client.Business.ClassSubject.csproj">
+      <Project>{e3806895-d09a-44b4-8f5d-3b97dd3ac6ff}</Project>
+      <Name>School.Client.Business.ClassSubject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.ClassTimeTable\School.Client.Business.ClassTimeTable.csproj">
+      <Project>{fad94269-f5d2-40e5-9048-881b63123f2b}</Project>
+      <Name>School.Client.Business.ClassTimeTable</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.Employees\School.Client.Business.Employees.csproj">
+      <Project>{8ee0b08e-0587-43e6-9eb9-c16bce96d8a2}</Project>
+      <Name>School.Client.Business.Employees</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.Guardian\School.Client.Business.Guardian.csproj">
+      <Project>{c43b3148-bbc2-4fd9-8d2d-3b0abb8f1d0c}</Project>
+      <Name>School.Client.Business.Guardian</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.Location\School.Client.Business.Location.csproj">
+      <Project>{73b37a6f-903b-4464-a79d-2c495abdfe29}</Project>
+      <Name>School.Client.Business.Location</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.Passport\School.Client.Business.Passport.csproj">
+      <Project>{ca5a4483-1e8e-4e15-a699-30dba8740398}</Project>
+      <Name>School.Client.Business.Passport</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.SchoolClasses\School.Client.Business.SchoolClasses.csproj">
+      <Project>{ae8d3e06-30a6-4f2e-8c8b-4889a628ee49}</Project>
+      <Name>School.Client.Business.SchoolClasses</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.SchoolInfo\School.Client.Business.SchoolInfo.csproj">
+      <Project>{9cb7043f-c879-41c4-ba44-347785d4c001}</Project>
+      <Name>School.Client.Business.SchoolInfo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.Scores\School.Client.Business.Scores.csproj">
+      <Project>{5a444297-2510-4f90-ba69-958ec360da72}</Project>
+      <Name>School.Client.Business.Scores</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.StudentsAttendance\School.Client.Business.StudentsAttendance.csproj">
+      <Project>{7e3c0d94-f737-4c68-a936-e33e4b8e1499}</Project>
+      <Name>School.Client.Business.StudentsAttendance</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.Students\School.Client.Business.Students.csproj">
+      <Project>{619cd528-85ef-4cd0-a048-c571eee120c8}</Project>
+      <Name>School.Client.Business.Students</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Client.Business.SubjectRegistration\School.Client.Business.SubjectRegistration.csproj">
+      <Project>{4a27d446-358e-4a37-9fc7-c578cc78bf80}</Project>
+      <Name>School.Client.Business.SubjectRegistration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Employees\School.Business.Employees.csproj">
+      <Project>{c3809e7e-5621-4dce-858c-97277260df6a}</Project>
+      <Name>School.Business.Employees</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Passport\School.Business.Passport.csproj">
+      <Project>{8cf5594b-0749-447b-8434-07f7d7f21936}</Project>
+      <Name>School.Business.Passport</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\School.Students\School.Business.Students.csproj">
+      <Project>{f7eff364-9777-4cc3-99a5-d0a9977b5334}</Project>
+      <Name>School.Business.Students</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

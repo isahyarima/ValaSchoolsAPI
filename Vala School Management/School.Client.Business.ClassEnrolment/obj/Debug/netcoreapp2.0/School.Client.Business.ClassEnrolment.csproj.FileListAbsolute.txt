@@ -1,0 +1,12 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\bin\Debug\netcoreapp2.0\School.Client.Business.ClassEnrolment.deps.json
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\bin\Debug\netcoreapp2.0\School.Client.Business.ClassEnrolment.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\bin\Debug\netcoreapp2.0\School.Client.Business.ClassEnrolment.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\bin\Debug\netcoreapp2.0\Core.General.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\bin\Debug\netcoreapp2.0\Core.General.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\obj\Debug\netcoreapp2.0\School.Client.Business.ClassEnrolment.csprojAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\obj\Debug\netcoreapp2.0\School.Client.Business.ClassEnrolment.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\obj\Debug\netcoreapp2.0\School.Client.Business.ClassEnrolment.AssemblyInfoInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\obj\Debug\netcoreapp2.0\School.Client.Business.ClassEnrolment.AssemblyInfo.cs
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\obj\Debug\netcoreapp2.0\School.Client.Business.ClassEnrolment.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\obj\Debug\netcoreapp2.0\School.Client.Business.ClassEnrolment.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.ClassEnrolment\obj\Debug\netcoreapp2.0\School.Client.Business.ClassEnrolment.pdb

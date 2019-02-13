@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.ClassTimeTable\bin\Debug\School.Client.Business.ClassTimeTable.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.ClassTimeTable\bin\Debug\School.Client.Business.ClassTimeTable.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.ClassTimeTable\obj\Debug\School.Client.Business.ClassTimeTable.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.ClassTimeTable\obj\Debug\School.Client.Business.ClassTimeTable.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.ClassTimeTable\obj\Debug\School.Client.Business.ClassTimeTable.pdb

@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.ClassEnrolments\bin\Debug\School.Client.Business.ClassEnrolments.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.ClassEnrolments\bin\Debug\School.Client.Business.ClassEnrolments.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.ClassEnrolments\obj\Debug\School.Client.Business.ClassEnrolments.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.ClassEnrolments\obj\Debug\School.Client.Business.ClassEnrolments.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.ClassEnrolments\obj\Debug\School.Client.Business.ClassEnrolments.pdb

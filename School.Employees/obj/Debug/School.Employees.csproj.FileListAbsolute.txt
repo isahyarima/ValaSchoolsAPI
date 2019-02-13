@@ -1,0 +1,19 @@
+C:\Users\uuser\Desktop\School\School.Employees\bin\Debug\School.Employees.dll
+C:\Users\uuser\Desktop\School\School.Employees\bin\Debug\School.Employees.pdb
+C:\Users\uuser\Desktop\School\School.Employees\obj\Debug\School.Employees.dll
+C:\Users\uuser\Desktop\School\School.Employees\obj\Debug\School.Employees.pdb
+C:\Users\uuser\Desktop\School\School.Employees\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Desktop\School\School.Employees\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\bin\Debug\School.Employees.dll.config
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\bin\Debug\School.Employees.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\bin\Debug\School.Employees.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\bin\Debug\EntityFramework.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\bin\Debug\EntityFramework.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\obj\Debug\School.Employees.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\obj\Debug\School.Employees.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\bin\Debug\School.Common.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\bin\Debug\School.Common.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\bin\Debug\School.Common.dll.config
+C:\Users\uuser\documents\visual studio 2017\Projects\School\School.Employees\obj\Debug\School.Employees.csprojResolveAssemblyReference.cache

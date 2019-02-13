@@ -1,0 +1,11 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Employees\bin\Debug\netcoreapp2.0\School.Client.Business.Employees.deps.json
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Employees\bin\Debug\netcoreapp2.0\School.Client.Business.Employees.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Employees\bin\Debug\netcoreapp2.0\School.Client.Business.Employees.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Employees\bin\Debug\netcoreapp2.0\Core.General.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Employees\bin\Debug\netcoreapp2.0\Core.General.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Employees\obj\Debug\netcoreapp2.0\School.Client.Business.Employees.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Employees\obj\Debug\netcoreapp2.0\School.Client.Business.Employees.AssemblyInfoInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Employees\obj\Debug\netcoreapp2.0\School.Client.Business.Employees.AssemblyInfo.cs
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Employees\obj\Debug\netcoreapp2.0\School.Client.Business.Employees.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Employees\obj\Debug\netcoreapp2.0\School.Client.Business.Employees.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Employees\obj\Debug\netcoreapp2.0\School.Client.Business.Employees.pdb

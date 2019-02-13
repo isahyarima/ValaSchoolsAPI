@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Guardian\bin\Debug\School.Client.Business.Guardian.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Guardian\bin\Debug\School.Client.Business.Guardian.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Guardian\obj\Debug\School.Client.Business.Guardian.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Guardian\obj\Debug\School.Client.Business.Guardian.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Guardian\obj\Debug\School.Client.Business.Guardian.pdb

@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.SubjectRegistration\bin\Debug\School.Client.Business.SubjectRegistration.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.SubjectRegistration\bin\Debug\School.Client.Business.SubjectRegistration.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.SubjectRegistration\obj\Debug\School.Client.Business.SubjectRegistration.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.SubjectRegistration\obj\Debug\School.Client.Business.SubjectRegistration.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.SubjectRegistration\obj\Debug\School.Client.Business.SubjectRegistration.pdb

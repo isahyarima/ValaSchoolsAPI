@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Projects\School\Common.Core.Contracts\bin\Debug\Common.Core.Contracts.dll
+C:\Users\uuser\Documents\Projects\School\Common.Core.Contracts\bin\Debug\Common.Core.Contracts.pdb
+C:\Users\uuser\Documents\Projects\School\Common.Core.Contracts\obj\Debug\Common.Core.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\uuser\Documents\Projects\School\Common.Core.Contracts\obj\Debug\Common.Core.Contracts.dll
+C:\Users\uuser\Documents\Projects\School\Common.Core.Contracts\obj\Debug\Common.Core.Contracts.pdb

@@ -1,0 +1,12 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\bin\Debug\netcoreapp2.0\School.Client.Business.Students.deps.json
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\bin\Debug\netcoreapp2.0\School.Client.Business.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\bin\Debug\netcoreapp2.0\School.Client.Business.Students.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\bin\Debug\netcoreapp2.0\Core.General.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\bin\Debug\netcoreapp2.0\Core.General.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\obj\Debug\netcoreapp2.0\School.Client.Business.Students.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\obj\Debug\netcoreapp2.0\School.Client.Business.Students.AssemblyInfoInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\obj\Debug\netcoreapp2.0\School.Client.Business.Students.AssemblyInfo.cs
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\obj\Debug\netcoreapp2.0\School.Client.Business.Students.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\obj\Debug\netcoreapp2.0\School.Client.Business.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\obj\Debug\netcoreapp2.0\School.Client.Business.Students.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Students\obj\Debug\netcoreapp2.0\School.Client.Business.Students.csprojAssemblyReference.cache

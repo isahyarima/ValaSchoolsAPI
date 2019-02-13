@@ -1,0 +1,17 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\School.Business.ClassEnrolment.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\School.Business.ClassEnrolment.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\bin\Debug\FluentValidation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\obj\Debug\School.Business.ClassEnrolment.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\obj\Debug\School.Business.ClassEnrolment.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\obj\Debug\School.Business.ClassEnrolment.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.ClassEnrolment\obj\Debug\School.Business.ClassEnrolment.pdb

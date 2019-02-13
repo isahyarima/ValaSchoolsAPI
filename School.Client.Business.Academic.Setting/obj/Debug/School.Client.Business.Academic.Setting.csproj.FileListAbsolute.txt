@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Academic.Setting\bin\Debug\School.Client.Business.Academic.Setting.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Academic.Setting\bin\Debug\School.Client.Business.Academic.Setting.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Academic.Setting\obj\Debug\School.Client.Business.Academic.Setting.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Academic.Setting\obj\Debug\School.Client.Business.Academic.Setting.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Academic.Setting\obj\Debug\School.Client.Business.Academic.Setting.pdb

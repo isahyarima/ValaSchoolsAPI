@@ -1,0 +1,9 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\bin\Debug\netcoreapp2.0\Core.Common.School.Contracts.deps.json
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\bin\Debug\netcoreapp2.0\Core.Common.School.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\bin\Debug\netcoreapp2.0\Core.Common.School.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\obj\Debug\netcoreapp2.0\Core.Common.School.Contracts.csprojAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\obj\Debug\netcoreapp2.0\Core.Common.School.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\obj\Debug\netcoreapp2.0\Core.Common.School.Contracts.AssemblyInfoInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\obj\Debug\netcoreapp2.0\Core.Common.School.Contracts.AssemblyInfo.cs
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\obj\Debug\netcoreapp2.0\Core.Common.School.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\obj\Debug\netcoreapp2.0\Core.Common.School.Contracts.pdb

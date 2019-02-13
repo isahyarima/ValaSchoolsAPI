@@ -1,0 +1,17 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\School.Business.Parents.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\School.Business.Parents.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\bin\Debug\FluentValidation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\obj\Debug\School.Business.Parents.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\obj\Debug\School.Business.Parents.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\obj\Debug\School.Business.Parents.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.Parents\obj\Debug\School.Business.Parents.pdb

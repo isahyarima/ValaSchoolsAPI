@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\bin\Debug\netcoreapp2.0\Core.Common.School.deps.json
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\bin\Debug\netcoreapp2.0\Core.Common.School.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\obj\Debug\netcoreapp2.0\Core.Common.School.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\obj\Debug\netcoreapp2.0\Core.Common.School.AssemblyInfoInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\Core.Common.School\obj\Debug\netcoreapp2.0\Core.Common.School.AssemblyInfo.cs

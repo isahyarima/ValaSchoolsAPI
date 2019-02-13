@@ -1,0 +1,49 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\bin\Debug\School.Students.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\bin\Debug\School.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\bin\Debug\School.Students.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\obj\Debug\School.Business.Students.csprojResolveAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\obj\Debug\School.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Students\obj\Debug\School.Students.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\School.Students.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\School.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\School.Students.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\CommonServiceLocator.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.Abstractions.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.Configuration.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.Container.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.Interception.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\CommonServiceLocator.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.Abstractions.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.Configuration.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.Container.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.Interception.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\bin\Debug\FluentValidation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\obj\Debug\School.Business.Students.csprojAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\obj\Debug\School.Business.Students.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\obj\Debug\School.Business.Students.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\obj\Debug\School.Students.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Students\obj\Debug\School.Students.pdb

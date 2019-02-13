@@ -1,0 +1,12 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\bin\Debug\netcoreapp2.0\School.Client.Business.Origin.deps.json
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\bin\Debug\netcoreapp2.0\School.Client.Business.Origin.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\bin\Debug\netcoreapp2.0\School.Client.Business.Origin.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\bin\Debug\netcoreapp2.0\Core.General.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\bin\Debug\netcoreapp2.0\Core.General.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\obj\Debug\netcoreapp2.0\School.Client.Business.Origin.csprojAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\obj\Debug\netcoreapp2.0\School.Client.Business.Origin.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\obj\Debug\netcoreapp2.0\School.Client.Business.Origin.AssemblyInfoInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\obj\Debug\netcoreapp2.0\School.Client.Business.Origin.AssemblyInfo.cs
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\obj\Debug\netcoreapp2.0\School.Client.Business.Origin.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\obj\Debug\netcoreapp2.0\School.Client.Business.Origin.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Client.Business.Origin\obj\Debug\netcoreapp2.0\School.Client.Business.Origin.pdb

@@ -1,0 +1,5 @@
+C:\Users\uuser\documents\visual studio 2017\Projects\School\Core.Common.SchoolCode\bin\Debug\Core.Common.SchoolCode.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\Core.Common.SchoolCode\bin\Debug\Core.Common.SchoolCode.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\Core.Common.SchoolCode\obj\Debug\Core.Common.SchoolCode.csprojResolveAssemblyReference.cache
+C:\Users\uuser\documents\visual studio 2017\Projects\School\Core.Common.SchoolCode\obj\Debug\Core.Common.SchoolCode.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\Core.Common.SchoolCode\obj\Debug\Core.Common.SchoolCode.pdb

@@ -1,0 +1,5 @@
+C:\Users\uuser\documents\visual studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\uuser\documents\visual studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\obj\Debug\Core.Common.SchoolCode.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\uuser\documents\visual studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\obj\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\documents\visual studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\obj\Debug\Core.Common.SchoolCode.Contracts.pdb

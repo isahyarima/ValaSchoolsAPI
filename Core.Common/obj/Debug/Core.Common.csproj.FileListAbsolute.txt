@@ -1,0 +1,46 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\obj\Debug\Core.Common.csprojResolveAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\bin\Debug\FluentValidation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\obj\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\Core.Common\obj\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\FluentValidation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\obj\Debug\Core.Common.csprojAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\obj\Debug\Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\obj\Debug\Core.Common.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\obj\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common\obj\Debug\Core.Common.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\Core.Common.dll.config
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\Core.Common.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\Core.Common.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\Core.Common.Contracts.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\EntityFramework.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\FluentValidation.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\EntityFramework.xml
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\bin\Debug\FluentValidation.xml
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\obj\Debug\Core.Common.csprojAssemblyReference.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\obj\Debug\Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\obj\Debug\Core.Common.csproj.CopyComplete
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\obj\Debug\Core.Common.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common\obj\Debug\Core.Common.pdb

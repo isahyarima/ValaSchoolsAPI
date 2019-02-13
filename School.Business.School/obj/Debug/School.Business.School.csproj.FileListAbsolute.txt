@@ -1,0 +1,16 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\bin\Debug\School.Business.School.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\bin\Debug\School.Business.School.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\bin\Debug\FluentValidation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\obj\Debug\School.Business.School.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\obj\Debug\School.Business.School.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\obj\Debug\School.Business.School.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\obj\Debug\School.Business.School.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Business.School\obj\Debug\School.Business.School.csprojAssemblyReference.cache

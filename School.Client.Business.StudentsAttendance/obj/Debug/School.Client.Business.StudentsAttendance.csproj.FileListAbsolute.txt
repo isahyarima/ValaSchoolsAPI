@@ -1,0 +1,6 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.StudentsAttendance\bin\Debug\School.Client.Business.StudentsAttendance.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.StudentsAttendance\bin\Debug\School.Client.Business.StudentsAttendance.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.StudentsAttendance\obj\Debug\School.Client.Business.StudentsAttendance.csprojAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.StudentsAttendance\obj\Debug\School.Client.Business.StudentsAttendance.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.StudentsAttendance\obj\Debug\School.Client.Business.StudentsAttendance.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.StudentsAttendance\obj\Debug\School.Client.Business.StudentsAttendance.pdb

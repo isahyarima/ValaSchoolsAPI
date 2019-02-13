@@ -1,0 +1,25 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Passport\bin\Debug\School.Passport.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Passport\bin\Debug\School.Passport.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Passport\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Passport\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Passport\obj\Debug\School.Business.Passport.csprojResolveAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Passport\obj\Debug\School.Passport.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School BK\School\School.Passport\obj\Debug\School.Passport.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\School.Passport.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\School.Passport.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\EntityFramework.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\FluentValidation.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\Core.Common.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\EntityFramework.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\bin\Debug\FluentValidation.xml
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\obj\Debug\School.Business.Passport.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\obj\Debug\School.Business.Passport.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\obj\Debug\School.Passport.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\obj\Debug\School.Passport.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Passport\obj\Debug\School.Business.Passport.csprojAssemblyReference.cache

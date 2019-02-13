@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Common.Contracts\Core.Common.Contracts.csproj" />
+    <ProjectReference Include="..\Core.Common.School\Core.Common.School.Contracts.csproj" />
+    <ProjectReference Include="..\School.Business.AcademicSettings\School.Business.AcademicSettings.csproj" />
+    <ProjectReference Include="..\School.Business.Attendance\School.Business.Attendance.csproj" />
+    <ProjectReference Include="..\School.Business.ClassEnrolment\School.Business.ClassEnrolment.csproj" />
+    <ProjectReference Include="..\School.Business.Classes\School.Business.Classes.csproj" />
+    <ProjectReference Include="..\School.Business.ClassSubjects\School.Business.ClassSubjects.csproj" />
+    <ProjectReference Include="..\School.Business.Employees\School.Business.Employees.csproj" />
+    <ProjectReference Include="..\School.Business.Origin\School.Business.Origin.csproj" />
+    <ProjectReference Include="..\School.Business.Parents\School.Business.Parents.csproj" />
+    <ProjectReference Include="..\School.Business.Passport\School.Business.Passport.csproj" />
+    <ProjectReference Include="..\School.Business.School\School.Business.School.csproj" />
+    <ProjectReference Include="..\School.Business.Scores\School.Business.Scores.csproj" />
+    <ProjectReference Include="..\School.Business.Students\School.Business.Students.csproj" />
+    <ProjectReference Include="..\School.Business.Subjects\School.Business.Subjects.csproj" />
+    <ProjectReference Include="..\School.Business.TimeTable\School.Business.TimeTable.csproj" />
+    <ProjectReference Include="..\School.Client.Business.AcademicSettings\School.Client.Business.AcademicSettings.csproj" />
+    <ProjectReference Include="..\School.Client.Business.Attendance\School.Client.Business.Attendance.csproj" />
+    <ProjectReference Include="..\School.Client.Business.ClassEnrolment\School.Client.Business.ClassEnrolment.csproj" />
+    <ProjectReference Include="..\School.Client.Business.Classes\School.Client.Business.Classes.csproj" />
+    <ProjectReference Include="..\School.Client.Business.ClassSubjects\School.Client.Business.ClassSubjects.csproj" />
+    <ProjectReference Include="..\School.Client.Business.Employees\School.Client.Business.Employees.csproj" />
+    <ProjectReference Include="..\School.Client.Business.Origin\School.Client.Business.Origin.csproj" />
+    <ProjectReference Include="..\School.Client.Business.Parents\School.Client.Business.Parents.csproj" />
+    <ProjectReference Include="..\School.Client.Business.Passport\School.Client.Business.Passport.csproj" />
+    <ProjectReference Include="..\School.Client.Business.School\School.Client.Business.School.csproj" />
+    <ProjectReference Include="..\School.Client.Business.Scores\School.Client.Business.Scores.csproj" />
+    <ProjectReference Include="..\School.Client.Business.Students\School.Client.Business.Students.csproj" />
+    <ProjectReference Include="..\School.Client.Business.Subjects\School.Client.Business.Subjects.csproj" />
+    <ProjectReference Include="..\School.Client.Business.TimeTable\School.Client.Business.TimeTable.csproj" />
+  </ItemGroup>
+
+</Project>

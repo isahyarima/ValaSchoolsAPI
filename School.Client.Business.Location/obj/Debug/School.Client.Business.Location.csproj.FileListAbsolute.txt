@@ -1,0 +1,6 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Location\bin\Debug\School.Client.Business.Location.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Location\bin\Debug\School.Client.Business.Location.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Location\obj\Debug\School.Client.Business.Location.csprojAssemblyReference.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Location\obj\Debug\School.Client.Business.Location.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Location\obj\Debug\School.Client.Business.Location.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Location\obj\Debug\School.Client.Business.Location.pdb

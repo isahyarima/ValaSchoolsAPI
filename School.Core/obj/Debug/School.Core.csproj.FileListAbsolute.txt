@@ -1,0 +1,4 @@
+C:\Users\uuser\Documents\Projects\School\School.Core\bin\Debug\School.Core.dll
+C:\Users\uuser\Documents\Projects\School\School.Core\bin\Debug\School.Core.pdb
+C:\Users\uuser\Documents\Projects\School\School.Core\obj\Debug\School.Core.dll
+C:\Users\uuser\Documents\Projects\School\School.Core\obj\Debug\School.Core.pdb

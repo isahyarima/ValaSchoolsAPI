@@ -1,0 +1,11 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\obj\Debug\Core.Common.School.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\obj\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\obj\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\obj\Debug\Core.Common.School.Contracts.csprojAssemblyReference.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\obj\Debug\Core.Common.School.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\obj\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode.Contracts\obj\Debug\Core.Common.SchoolCode.Contracts.pdb

@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Passport\bin\Debug\School.Client.Business.Passport.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Passport\bin\Debug\School.Client.Business.Passport.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Passport\obj\Debug\School.Client.Business.Passport.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Passport\obj\Debug\School.Client.Business.Passport.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\School.Client.Business.Passport\obj\Debug\School.Client.Business.Passport.pdb

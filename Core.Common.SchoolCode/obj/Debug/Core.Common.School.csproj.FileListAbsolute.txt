@@ -1,0 +1,10 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode\bin\Debug\Core.Common.SchoolCode.dll.config
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode\bin\Debug\Core.Common.SchoolCode.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode\bin\Debug\Core.Common.SchoolCode.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode\bin\Debug\Core.Common.SchoolCode.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode\bin\Debug\Core.Common.SchoolCode.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode\obj\Debug\Core.Common.School.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode\obj\Debug\Core.Common.School.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode\obj\Debug\Core.Common.SchoolCode.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode\obj\Debug\Core.Common.SchoolCode.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\School\Core.Common.SchoolCode\obj\Debug\Core.Common.School.csprojAssemblyReference.cache

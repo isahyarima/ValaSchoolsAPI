@@ -1,0 +1,5 @@
+C:\Users\uuser\Documents\Projects\School\School.Common.Entity\bin\Debug\School.Common.Entity.dll
+C:\Users\uuser\Documents\Projects\School\School.Common.Entity\bin\Debug\School.Common.Entity.pdb
+C:\Users\uuser\Documents\Projects\School\School.Common.Entity\obj\Debug\School.Common.Entity.dll
+C:\Users\uuser\Documents\Projects\School\School.Common.Entity\obj\Debug\School.Common.Entity.pdb
+C:\Users\uuser\Documents\Projects\School\School.Common.Entity\obj\Debug\School.Common.Entity.csprojResolveAssemblyReference.cache

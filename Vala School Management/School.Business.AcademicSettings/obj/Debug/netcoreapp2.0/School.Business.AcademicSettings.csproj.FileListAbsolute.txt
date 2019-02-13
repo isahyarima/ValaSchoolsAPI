@@ -1,0 +1,16 @@
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\bin\Debug\netcoreapp2.0\School.Business.AcademicSettings.deps.json
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\bin\Debug\netcoreapp2.0\School.Business.AcademicSettings.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\bin\Debug\netcoreapp2.0\School.Business.AcademicSettings.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\bin\Debug\netcoreapp2.0\Core.Common.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\bin\Debug\netcoreapp2.0\Core.Common.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\bin\Debug\netcoreapp2.0\Core.Common.School.Contracts.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\bin\Debug\netcoreapp2.0\Core.Common.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\bin\Debug\netcoreapp2.0\Core.Common.School.Contracts.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\bin\Debug\netcoreapp2.0\Core.Common.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\obj\Debug\netcoreapp2.0\School.Business.AcademicSettings.csproj.CoreCompileInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\obj\Debug\netcoreapp2.0\School.Business.AcademicSettings.AssemblyInfoInputs.cache
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\obj\Debug\netcoreapp2.0\School.Business.AcademicSettings.AssemblyInfo.cs
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\obj\Debug\netcoreapp2.0\School.Business.AcademicSettings.csproj.CopyComplete
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\obj\Debug\netcoreapp2.0\School.Business.AcademicSettings.dll
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\obj\Debug\netcoreapp2.0\School.Business.AcademicSettings.pdb
+C:\Users\uuser\Documents\Visual Studio 2017\Projects\Vala School Management\School.Business.AcademicSettings\obj\Debug\netcoreapp2.0\School.Business.AcademicSettings.csprojAssemblyReference.cache
